@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Github Stargazers</string>
+    <string name="repo_not_found">Repository non trovato</string>
+    <string name="error_connecting_server">Errore di collegamento al server</string>
+</resources>
